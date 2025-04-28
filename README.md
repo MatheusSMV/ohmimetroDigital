@@ -72,7 +72,7 @@ Este projeto utiliza as seguintes bibliotecas:
 
 - Adicionar suporte para mais tolerâncias de resistores (tabelas E96, por exemplo).
 - Interface gráfica para configuração dinâmica do resistor conhecido.
-- Suporte para múltiplas medições simultâneas.
+- Suporte para múltiplas medições simultâneas. 
 
 ---
 
